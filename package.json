@@ -1,0 +1,31 @@
+{
+  "name": "universal-event-handler",
+  "version": "1.0.0",
+  "description": "The universal event handler for any project",
+  "main": "eventHandler.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiricekcz/universal-event-handler.git"
+  },
+  "keywords": [
+    "Events",
+    "Handle",
+    "Typescript",
+    "On",
+    "Once",
+    "Emit"
+  ],
+  "author": "jiricekcz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiricekcz/universal-event-handler/issues"
+  },
+  "homepage": "https://github.com/jiricekcz/universal-event-handler#readme",
+  "dependencies": {
+    "@types/node": "^14.14.25",
+    "typescript": "^4.1.5"
+  }
+}
