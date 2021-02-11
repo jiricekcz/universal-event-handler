@@ -1,2 +1,2 @@
-# universal-event-handler
+# Univarsal Event Handler
 An universal event handler for your project
